@@ -1,6 +1,6 @@
 ---
-title: "Replication of Study X by Sample & Sample (20xx, Psychological Science)"
-author: "Replication Author[s] (contact information)"
+title: "Replication of Study Judging Emotions as Good or Bad: Individual Differences and Associations with Psychological Health by Emily Willroth, Gerald Young, Maya Tamir & Iris B. Mauss (2023, Emotion)"
+author: "Emily Willroth, Gerald Young, Maya Tamir & Iris B.Mauss (emily.w@wustl.edu)"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 format:
   html:
@@ -12,7 +12,27 @@ format:
 
 ## Introduction
 
-[No abstract is needed.]  Each replication project will have a straightforward, no frills report of the study and results.  These reports will be publicly available as supplementary material for the aggregate report(s) of the project as a whole.  Also, to maximize project integrity, the intro and methods will be written and critiqued in advance of data collection.  Introductions can be just 1-2 paragraphs clarifying the main idea of the original study, the target finding for replication, and any other essential information.  It will NOT have a literature review -- that is in the original publication. You can write both the introduction and the methods in past tense.  
+##Justification for the choice of experiemnt: My research interest revolves around understanding the nature and social consequences of emotions and emotion regulation in terms of wellbeing and interpersonal relationships. Additionally, I am also interested in exploring the cultural underpinnings of how diverse aspects of emotions, like judgement, experience, and expression differ socio-culturally. The research that I have selected: 'Judging Emotions as Good or Bad: Individual Differences and Associations with Psychological Health' (Willroth et al., 2023), builds upon the idea that people differ in how they react to initial emotions (post an event), and their judgement of those initial emotions can have important implications for their psychological health. They aim to understand 1) nature of habitual emotional judgements and 2) their associations with psychological health. The authors found that there are four distinct habitual emotional judgement that differ according to the valence of the judgement (positive or negative) and the emotion being judged (positive or negative). Secondly, the judgement of emotions has consequences for psychological health. Specifically, positive judgement of positive emotions was uniquely associated with better psychological health and negative judgement of negative emotions was uniquely associated with worse psychological health. The finding that one’s judgement of their emotions have direct implications for their psychological health is very intriguing to me and aligns well with my research interests and goals. As an affective science and culture researcher, I hope to extend this finding by further exploring the links between the four identified facets of emotion judgement and positive and negative emotion expression in different cultural contexts.  
+
+##Stimuli and Procedures: This will be a cross-sectional survey-based study where the data will be collected through Prolific. The participants will be required to complete specific questionaries, related to the measures of interests and some additional self-report questionnaires on Qualtrics. These are the following measures which will be used:
+#a)	Habitual Emotion Judgements
+#b)	Conceptually Related Constructs: Several conceptually related constructs will be assessed, for example, affect valuation: Affect Valuation Index (Tsai et al., 2006), emotion preferences, attitude towards emotions: Attitude Toward Emotions Scale (Harmons-Jones et al.,2011), meta emotions: Meta-Emotion Scale (Mitmansgruber et al., 2009), fear of happiness: Fear of happiness scale (Joshanloo, 2013), stress mindset: Stress Mindset measure (Crum et al., 2013), emotional; acceptance: non-judgement facet of FFMQ (Baer et al., 2006)
+#c)	Broader Traits: Trait emotions, extraversion and neuroticism - PANAS-20 (Watson, Clark & Tellegen, 1988), and AVI (Tsai et al., 2006).
+#d)	Psychological Health: Two measures of ill-being (depression: Beck Depression Inventory (Beck et al., 1996) and anxiety symptoms (Anxiety Screening Questionnaire (Wittchen & Boyer, 1998)) and two measures of wellbeing (psychological wellbeing: Ryff Psychological and Wellbeing Scale (Ryff & Keyes, 1995) and satisfaction with life: Satisfaction with Life Scale (Diener et al., 1985)). 
+#For analysing the nature of emotion judgements, exploratory factor analysis (EFA) and confirmatory factor analysis (CFA) will be conducted. Further intercorrelations among the four quadrants, and associations with demographic characteristics, conceptually related constructs, and broader traits will be conducted for Aim 1. For examining the associations between habitual emotion judgements and psychological health (Aim 2), simple correlations between habitual emotion judgements and psychological health will be conducted in addition to entering all four factors simultaneously into a multiple regression to predict psychological health. 
+#I can imagine three challenges for conducting this experiment at the moment:
+#1)	The specified study collected data from five sample between 2017-2022 (total N = 1,647). Since we do not have so much time, we may not have the opportunity to collect data from such a large sample.
+#2)	The study also employed daily diary method to assess initial responses to stressful events for one portion of a specific sample. Because of methodological challenges and time constraints, we won’t be able to study the associations between habitual emotion judgements and psychological health while adjusting for initial emotions. 
+#3)	The study also examined differences in habitual emotion judgements between Asian Americans and European Americans. This examination is of interest to me, but this may be challenging as this is largely dependent on equal and substantial distribution of people from diverse ethnicities in the sample that we collect. 
+
+##Link to repo and original paper
+
+- [GitHub Repository](https://github.com/Arushisa/willroth2023.git)
+- [Original Paper (PDF)](https://github.com/Arushisa/willroth2023/raw/main/original_paper/Willroth2023_Judging%20emotions%20as%20good%20or%20bad.pdf)
+
+
+
+
 
 
 ## Methods
